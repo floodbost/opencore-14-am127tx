@@ -4,6 +4,7 @@
 - baterry status
 - lan card
 - igpu
+- audio 
 
 # not working
 - wifi
